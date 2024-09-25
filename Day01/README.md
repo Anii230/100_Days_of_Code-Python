@@ -21,4 +21,4 @@ You can continue to use this same repl for your project. Just make sure you dele
 
 Here's a screenshot of my program output:
 
-![Project 1 Output](../images/day01.png)
+![day01](https://github.com/user-attachments/assets/bd789871-c93f-465f-b92c-9c3ae102be26)
