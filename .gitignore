@@ -1,0 +1,10 @@
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore environment folders
+env/
+venv/
+
+# Ignore images folder
+images/
