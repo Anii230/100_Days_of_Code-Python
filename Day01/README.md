@@ -22,4 +22,4 @@ I am signing up for Replit's 100 days of Python challenge! I will make sure to s
 
 Here's a screenshot of my program output:
 
-![Project 1 Output](../images/day01.png)
+![day01](https://github.com/user-attachments/assets/bd789871-c93f-465f-b92c-9c3ae102be26)
