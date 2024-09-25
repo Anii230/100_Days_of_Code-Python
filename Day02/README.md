@@ -15,3 +15,5 @@
     - At the end, print a positive affirmation telling the user that they rock at something!
 
 Here's a screenshot of my program output:
+
+![day02](https://github.com/user-attachments/assets/2ef67005-e342-4907-9ba4-b04d3beae073)
