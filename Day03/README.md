@@ -25,3 +25,5 @@ Remember when you were a kid and thought the ideal dinner would just be all your
 - **Remix the recipe:** Add more variables and make it even wackier! Why not create a full recipe for a starter, main course, and dessert?
 
 Here's a screenshot of my program output:
+
+![day03](https://github.com/user-attachments/assets/303ecca3-c84a-4630-a9cb-2f43aabea9e6)
