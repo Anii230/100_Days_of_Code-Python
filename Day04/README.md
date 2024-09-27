@@ -27,3 +27,6 @@ You can make your story more engaging by adding some color. Use colored text to 
 - Keep your creativity flowing, and let’s make this story visually appealing too!
 
 Here's a screenshot of my program output:
+
+![day04](https://github.com/user-attachments/assets/627fdf66-a386-4a03-80c0-fc50e3aa9ab8)
+
