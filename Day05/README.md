@@ -1,4 +1,4 @@
-![day05](https://github.com/user-attachments/assets/a7f0aaac-bc62-424f-9407-d56e6cf45268)## Project 5: "Which Character Are You?" Generator
+## Project 5: "Which Character Are You?" Generator
 
 In this project, you'll create a fun quiz that helps users discover which character from your fictional world they resemble the most.
 
