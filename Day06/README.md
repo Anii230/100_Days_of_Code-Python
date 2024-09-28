@@ -18,3 +18,5 @@ Create a simple login program that provides a personalized experience based on t
    - Display a generic message such as: "Access denied. Please check your credentials."
 
 Here is the output of the program:
+
+![day06](https://github.com/user-attachments/assets/c3daee11-26f3-4abf-9d38-bc4f8ee1b51f)
