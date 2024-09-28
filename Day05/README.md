@@ -24,3 +24,5 @@ In this project, you'll create a fun quiz that helps users discover which charac
 
 
 Here's a screenshot of my program output:
+
+![day05](https://github.com/user-attachments/assets/57e97660-c13a-4b50-975e-3137f151914a)
