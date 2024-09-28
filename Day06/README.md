@@ -17,4 +17,4 @@ Create a simple login program that provides a personalized experience based on t
    - Include an `else` statement to handle users who shouldn't be logging in.
    - Display a generic message such as: "Access denied. Please check your credentials."
 
-Output:
+Here is the output of the program:
