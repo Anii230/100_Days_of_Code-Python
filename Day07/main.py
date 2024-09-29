@@ -1,4 +1,4 @@
-print("Are you a real fan?\n")
+print("\nAre you a real fan?\n")
 
 band = input("Select a band- A7X and Muse: ")
 
