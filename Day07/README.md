@@ -13,3 +13,5 @@ Be sure to include:
 Let the fun begin, and see if they really are the real deal!
 
 output:
+
+![day07](https://github.com/user-attachments/assets/e7dd285f-77dd-4c8b-81aa-82557eab88a6)
