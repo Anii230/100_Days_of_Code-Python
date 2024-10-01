@@ -39,3 +39,6 @@ Can you create `if` statements that ignore capitalization (i.e., handle both upp
 ---
 
 Output:
+
+![image](https://github.com/user-attachments/assets/aad1e4c2-df4e-402d-a473-99179f1e45c0)
+
