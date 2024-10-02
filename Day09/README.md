@@ -32,3 +32,6 @@ For example:
 
 Have fun and make the responses creative!
 Output:
+
+![day09](https://github.com/user-attachments/assets/e7145e3b-b09e-457d-8cb0-209a793a6a83)
+
