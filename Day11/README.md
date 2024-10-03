@@ -28,5 +28,5 @@ Instead of Googling the answer, let's break it down and build a program to calcu
 5. **Output the Result**:
    - Display the total number of seconds in the year.
 
-
+---
 ### Output:
