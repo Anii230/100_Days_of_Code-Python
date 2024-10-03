@@ -26,3 +26,5 @@ Create a program that calculates how to split a bill evenly between people, incl
 
 ---
 Output:
+
+![day10](https://github.com/user-attachments/assets/060d9774-fcf0-400a-9b8d-41b6ea257cb2)
