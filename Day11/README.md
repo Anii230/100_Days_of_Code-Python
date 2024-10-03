@@ -30,3 +30,5 @@ Instead of Googling the answer, let's break it down and build a program to calcu
 
 ---
 ### Output:
+
+![day11](https://github.com/user-attachments/assets/d267bc22-e98c-483e-8b32-52ab397ca596)
