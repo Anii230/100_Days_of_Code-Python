@@ -23,3 +23,6 @@ elif(ans2==12):
 ```
 ---
 ### Output:
+
+![day12](https://github.com/user-attachments/assets/765ed9a8-a18b-4aa8-8af9-506d1eec6a99)
+
