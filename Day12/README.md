@@ -20,3 +20,6 @@ else:
   print("We've gone well past that!")
 elif(ans2==12):
   print("That's right!")
+```
+---
+### Output:
