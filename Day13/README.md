@@ -47,3 +47,6 @@ Feel free to use a different grading scale if you prefer.
 
 ---
 ## Output:
+![day13](https://github.com/user-attachments/assets/dda724fa-fc7d-4eb7-b7d6-655559a1e7eb)
+
+
