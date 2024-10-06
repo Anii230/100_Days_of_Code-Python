@@ -52,3 +52,5 @@ from getpass import getpass as input
 
 ---
 ## Output:
+![day14](https://github.com/user-attachments/assets/429436ac-7695-4a36-b7c9-13fc8b6f4105)
+
