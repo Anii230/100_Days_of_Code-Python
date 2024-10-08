@@ -21,3 +21,6 @@ Do you want to exit?: yes
 ---
 
 ## Output:
+
+![day15](https://github.com/user-attachments/assets/2efede03-533b-4d75-98dc-b0f6f6636f1c)
+
