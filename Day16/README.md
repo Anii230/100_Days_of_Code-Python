@@ -54,3 +54,8 @@ Well done! It only took you 3 attempts.
 
 ---
 ## Output:
+![day16](https://github.com/user-attachments/assets/7236d179-0b1c-42d7-81cb-330c2a287967)
+
+
+
+
