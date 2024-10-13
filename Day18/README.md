@@ -21,3 +21,4 @@
 ---
 
 ## Output:
+![day18](https://github.com/user-attachments/assets/358464e7-857d-463b-93ab-313a9369b710)
