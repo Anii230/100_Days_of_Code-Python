@@ -13,3 +13,4 @@ Use a for loop and one or two lines of looped code to determine the answer. *(Hi
 ---
 
 ## Output:
+![day19](https://github.com/user-attachments/assets/a7c74e41-3f50-445a-b863-c717b6754445)
