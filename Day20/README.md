@@ -16,3 +16,4 @@ Increment between values: 20
 ---
 
 ## Output:
+![day20](https://github.com/user-attachments/assets/e2cb9171-2ba1-4432-8a55-78c1973be8a8)
