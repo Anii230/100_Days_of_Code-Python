@@ -10,3 +10,4 @@ We are going to make a change to this project:
 ---
 
 ## Output:
+![day22](https://github.com/user-attachments/assets/b96c6481-f019-40aa-b798-a1570a81a2d6)
