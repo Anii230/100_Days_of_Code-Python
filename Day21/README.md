@@ -11,3 +11,4 @@ Test your family and friends on their multiplication knowledge (or just be reall
 ---
 
 ## Output:
+![day21](https://github.com/user-attachments/assets/91066ba5-d61e-4aba-85b2-ea36cc0a090d)
