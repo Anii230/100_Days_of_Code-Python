@@ -20,3 +20,4 @@ Roll again? no
 ---
 
 ## Output:
+![day24](https://github.com/user-attachments/assets/d811f0fd-dd47-48ac-bfe1-29bbcb1ad672)
