@@ -17,3 +17,4 @@ Let's extend Day 24's project and create a health stats generator for a characte
 ---
 
 ## Output:
+![day24](https://github.com/user-attachments/assets/34ad3702-b607-4fea-b5b4-1831a05eaed2)
