@@ -33,3 +33,6 @@ Welcome to your first video game creation. You will create a video game that gen
 
 ---
 ## Output:
+![day27](https://github.com/user-attachments/assets/95dc2ff1-e052-43a1-ab0f-67eb03f13cc6)
+
+
