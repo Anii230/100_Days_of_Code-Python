@@ -24,3 +24,4 @@ Ian Spammington III
 ---
 
 ## Output:
+![day34](https://github.com/user-attachments/assets/0c6112af-e0d3-4df9-a130-5ae186417af4)
