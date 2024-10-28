@@ -22,3 +22,4 @@ so good that I bought the David plushie
 ---
 
 ## Output:
+![day30](https://github.com/user-attachments/assets/a588884e-11bc-42b1-9650-6f778f8ba542)
