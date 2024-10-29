@@ -20,3 +20,4 @@ Create a program that generates a Star Wars name based on user input.
 
 ---
 ## Output:
+![day37](https://github.com/user-attachments/assets/5e6b7a02-dc9e-44a8-9f1f-2876251749f6)
