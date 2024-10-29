@@ -34,3 +34,6 @@ prev
 ```
 ---
 ## Output:
+![day31](https://github.com/user-attachments/assets/eeff912e-3d77-47b5-9335-447fc7042374)
+
+

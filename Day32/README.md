@@ -13,3 +13,4 @@
 
 ---
 ## Output:
+![day32](https://github.com/user-attachments/assets/02acf54c-a05f-41eb-be58-61953ca74218)

@@ -28,3 +28,4 @@
 ---
 
 ## Output:
+![day33](https://github.com/user-attachments/assets/7a5fa122-139f-479c-84a9-0b075a2ce887)

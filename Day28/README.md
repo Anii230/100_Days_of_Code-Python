@@ -21,3 +21,4 @@ This should give you a fun, automated battle game. Enjoy coding your battles! ğŸ
 
 ---
 ## Output:
+![day28](https://github.com/user-attachments/assets/4943d902-b1f5-45c8-9ccf-46b47c94dec7)

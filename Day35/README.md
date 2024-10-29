@@ -31,4 +31,6 @@ yes
 ```
 ---
 
-## Output:
+# Output:
+![day35](https://github.com/user-attachments/assets/800aa9ec-4678-44d7-a09f-14c398dd5582)
+
