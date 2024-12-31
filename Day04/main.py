@@ -9,3 +9,4 @@ band = input("Enter your favourite band: ")
 print ("\033[35m", "\nBizzare Adeventure of", name, "and", frnd)
 
 print("\033[32m", "\nOne day,", name, "and", frnd, "decided to enter a lucky draw for", band + ". The band was performing at", place, "and the flight charge as well as stay was covered in the draw. Apparantly,", name, "and", frnd, "\033[31m", "lost!\nThey were", number, "off from the winning number!" )
+
